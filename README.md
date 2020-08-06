@@ -1,6 +1,6 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrfour0004&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-[![mrfour's github stats](https://github-readme-stats.vercel.app/api?username=mrfour0004)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋
 
 <!--
 **mrfour0004/mrfour0004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

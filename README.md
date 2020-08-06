@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![mrfour's github stats](https://github-readme-stats.vercel.app/api?username=mrfour0004)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **mrfour0004/mrfour0004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

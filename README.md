@@ -1,6 +1,22 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mrfour0004&show_icons=true&theme=onedark&hide_title=true" />
 
-### Hi there 👋
+### Hi, I'm Jason 👋
+![age](https://img.shields.io/badge/age-v32.65-informational.svg)
+![marital](https://img.shields.io/badge/marital_status-married-red.svg)
+![marital](https://img.shields.io/badge/三圍-N/A-important.svg)
+![dept](https://img.shields.io/badge/dept-ios_dev-white.svg)
+
+
+#### Work Experience
+- **2 years** of experience in **Front-End** (Internship)
+- **5 years** of experience in **iOS**
+  - Snapask
+  - Rakuten Taiwan Ichiba
+  - MicraMacro
+
+#### Habit
+- 🎧 聽聽音樂 → 產能 20% up
+- ☕️ 沖沖咖啡 → 產能 10% up
 
 <!--
 **mrfour0004/mrfour0004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

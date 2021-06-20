@@ -2,6 +2,24 @@
 
 ### Hi, I'm Jason 👋
 
+```dart
+class Profile extends Developer
+    with FlutterDeveloper, iOSDeveloper {
+  
+  Profile.jason()
+      : name = 'Jason Liang',
+        nickname = 'mrfour',
+        company = Company.lineTaiwan(),
+        twitter = '@mrfour0004',
+        line = 'mrfour0004',
+        habits = [
+          Habit('☕️'), 
+          Habit('🎧'), 
+          Habit('📸'),
+        ];
+}
+```
+
 <!--
 **mrfour0004/mrfour0004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
